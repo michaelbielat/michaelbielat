@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaelbielat
 - 👀 I’m interested in .NET, Angular, JavaScript, JQuery, PHP, etc.
-- 🌱 I’m currently learning OCR, LoRa Communication
+- 🌱 I’m currently learning OCR, LoRa Communication, Raspberry Pi
 - 💞️ I’m looking to collaborate on Open Source projects and anything that interests me.
 - 📫 How to reach me: MichaelABielat@gmail.com / MikeBielat.com
 
